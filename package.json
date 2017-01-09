@@ -1,0 +1,19 @@
+{
+  "name": "soft-scroll",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jQuery.softScroll.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicolajKN/Soft-Scroll.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NicolajKN/Soft-Scroll/issues"
+  },
+  "homepage": "https://github.com/NicolajKN/Soft-Scroll#readme"
+}
